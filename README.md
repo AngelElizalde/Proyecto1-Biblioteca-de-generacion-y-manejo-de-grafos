@@ -1,7 +1,9 @@
 Instituto Politécnico Nacional
+
 Centro de Investigación en Computación
 
 Analisis y diseño de algoritmos
+
 Proyecto 1-Biblioteca de generacion y manejo de grafos
 
 Distribución: Kubuntu 
@@ -9,17 +11,22 @@ Version: 20.04
 
 compilación: python3.6 main.py
 
+
 Contenido:
+
             Programas:
                         main.py
                         algoritmos.py
                         nodo.py
                         grafo.py    
                         arista.py
+                        
             Imagenes:
                         imagenes generadas con los grafos de 30, 100 y 500 nodos
+                        
             grafos:
                         archivos de grafos de de 30, 100 y 500 nodos
+                        
 
 Descripción del Proyecto
 
