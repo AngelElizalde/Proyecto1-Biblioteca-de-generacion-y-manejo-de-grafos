@@ -39,13 +39,20 @@ def grafoMalla(m, n, dirigido=False):
 
 Modelo Gn,m de Erdös y Rényi. Crear n nodos y elegir uniformemente al azar m distintos pares de distintos vértices.
 def grafoErdosRenyi(n, m, dirigido=False, auto=False):
+
   """
   Genera grafo aleatorio con el modelo Erdos-Renyi
+
   :param n: número de nodos (> 0)
+
   :param m: número de aristas (>= n-1)
+
   :param dirigido: el grafo es dirigido?
+
   :param auto: permitir auto-ciclos?
+
   :return: grafo generado
+  
   """
 
 
