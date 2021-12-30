@@ -7,6 +7,7 @@ Analisis y diseño de algoritmos
 Proyecto 1-Biblioteca de generacion y manejo de grafos
 
 Distribución: Kubuntu 
+
 Version: 20.04
 
 compilación: python3.6 main.py
