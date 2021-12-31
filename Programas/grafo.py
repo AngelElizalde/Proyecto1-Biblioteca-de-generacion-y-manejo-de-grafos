@@ -13,7 +13,7 @@ from nodo import Nodo
 
 
 """
-Clase Grafo, contiene principalmente un conjunto de nodos y un conjunto de aristas
+Clase Grafo, contiene nodos y aristas
 """
 
 
